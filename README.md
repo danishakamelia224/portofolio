@@ -1,4 +1,4 @@
-# Portofolio Andi Pratama
+# Portofolio Danisha Kamelia
 Website portofolio pribadi yang saya buat di Kelas Industri UBIG
 (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
@@ -14,6 +14,7 @@ jadwal belajar
 - HTML5
 - CSS3 (Flexbox dan media query)
 - Git dan GitHub
+- VS Code dan Live Server
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Andi Pratama, SMK Mitra![alt text](tampilan-portofolio.png)
+- Dibuat oleh: Danisha Kamelia, SMKN 1 Pasuruan
